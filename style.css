@@ -1,0 +1,22 @@
+body {
+    font-family: Arial;
+    margin: 40px;
+    background-color: #000000;
+}
+
+h1 {
+    color: #ffffff;
+}
+h2 {
+    color: #ffffff;
+}
+p {
+    color: #ffffff;
+}
+li {
+    color: #ffffff;
+}
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
